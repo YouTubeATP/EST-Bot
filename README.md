@@ -17,7 +17,9 @@ How to host:
 
 1. Download the files.
 
-2. Make sure you have node.js installed. If not, download it here: nodejs.org/en
+2. Make sure you have node.js installed. If not, download it here: 
+
+https://nodejs.org/en
 
 3. Run command prompt.
 
