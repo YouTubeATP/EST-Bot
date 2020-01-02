@@ -15,6 +15,12 @@ Demonstration: https://youtu.be/Nc59RSmxL90
 
 How to host:
 
+1. Create a bot account on the Discord developer portal: https://discordapp.com/developers/applications/
+
+2. Note down the client ID and token of the bot account.
+
+3. 
+
 1. Download the files.
 
 2. Make sure you have node.js installed. If not, download it here: https://nodejs.org/en
