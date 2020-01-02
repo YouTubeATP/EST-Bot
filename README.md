@@ -25,7 +25,7 @@ How to host:
 
 5. Navigate to EST Bot\data\settings.json .
 
-6. Open it with a text editor, then replace "Your bot token here", "Your client ID here" and "@Yourname#0001" with your Bot's token, Client ID and your Discord tag respectively. Remember to keep the quotation marks and the @.
+6. Open it with a text editor, then replace "Your bot token here", "Your client ID here" and "@Yourusername#0001" with your Bot's token, Client ID and your Discord tag respectively. Remember to keep the quotation marks and the @.
 
 7. Run command prompt.
 
