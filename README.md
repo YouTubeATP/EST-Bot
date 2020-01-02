@@ -15,7 +15,7 @@ Demonstration: https://youtu.be/Nc59RSmxL90
 
 How to host:
 
-1. Create a bot account on the Discord developer portal: https://discordapp.com/developers/applications/
+1. Create a bot account on the Discord developer portal: https://discordapp.com/developers/applications/ (Tutorial:https://discordpy.readthedocs.io/en/latest/discord.html)
 
 2. Note down the client ID and token of the bot account.
 
