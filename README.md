@@ -19,16 +19,18 @@ How to host:
 
 2. Note down the client ID and token of the bot account.
 
-3. 
+3. Download the files.
 
-1. Download the files.
+4. Make sure you have node.js installed. If not, download it here: https://nodejs.org/en
 
-2. Make sure you have node.js installed. If not, download it here: https://nodejs.org/en
+5. Navigate to EST Bot\data\settings.json .
 
-3. Run command prompt.
+6. Open it with a text editor, then replace "Your token here", "Your client ID here" and "@Yourname#0001" with your Bot's token, Client ID and your Discord tag respectively. Remember to keep the quotation marks and the @.
 
-4. Use the command "cd [directory of the bot]". You should see the directory change into your directory, instead of C:\Windows\System32.
+7. Run command prompt.
 
-5. Type in "node bot.js".
+8. Use the command "cd [directory of the bot]". You should see the directory change into your directory, instead of C:\Windows\System32.
 
-6. The bot is up and running now. Do not close the command prompt or the bot will go offline.
+9. Type in "node bot.js".
+
+10. The bot is up and running now. Do not close the command prompt or the bot will go offline.
