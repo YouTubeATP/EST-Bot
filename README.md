@@ -5,11 +5,11 @@ For use in the EST Studio official Discord Servers only. Do not distribute.
 
 This repository is for commiting and hosting.
 
-EST Studio bot - Alpha
+EST Studio Bot
 
-1. Shifting statuses! Includes: "EST Studio", "Use %help to get help", "We do not like Vincent Chow!" and "Traffic Lights!".
+- Shifting statuses! Includes: "EST Studio", "Use %help to get help", "We do not like Vincent Chow!" and "Traffic Lights!".
 
-2. Traffic lights! The bot changes between statuses Online, Idle and Do Not Disturb to mimic the three colors of traffic lights, namely red, yellow and green.
+- Traffic lights! The bot changes between statuses Online, Idle and Do Not Disturb to mimic the three colors of traffic lights, namely red, yellow and green.
 
 Demonstration: https://youtu.be/Nc59RSmxL90
 
